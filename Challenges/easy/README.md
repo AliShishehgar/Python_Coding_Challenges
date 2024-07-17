@@ -68,3 +68,4 @@ Only one line of input containing \( n \), the size of the rangoli.
 ### Constraints
 
 1 ≤ \( n \) ≤ 26
+  
