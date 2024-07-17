@@ -7,11 +7,11 @@ You are given an integer, \( n \). Your task is to print an alphabet rangoli of 
 Different sizes of alphabet rangoli are shown below:
 
 ### Size 3
-----c----
---c-b-c--
-c-b-a-b-c
---c-b-c--
-----c----
+----c----  
+--c-b-c--  
+c-b-a-b-c  
+--c-b-c--  
+----c----  
 
 
 ### Size 5
