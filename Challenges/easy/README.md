@@ -13,6 +13,7 @@ c-b-a-b-c
 --c-b-c--
 ----c----
 
+
 ### Size 5
 --------e--------
 ------e-d-e------
@@ -25,7 +26,6 @@ e-d-c-b-a-b-c-d-e
 --------e--------
 
 ### Size 10
-
 ------------------j------------------
 ----------------j-i-j----------------
 --------------j-i-h-i-j--------------
@@ -45,6 +45,7 @@ j-i-h-g-f-e-d-c-b-a-b-c-d-e-f-g-h-i-j
 --------------j-i-h-i-j--------------
 ----------------j-i-j----------------
 ------------------j------------------
+
 
 
 The center of the rangoli has the first alphabet letter 'a', and the boundary has the \( n \)-th alphabet letter (in alphabetical order).
@@ -67,20 +68,3 @@ Only one line of input containing \( n \), the size of the rangoli.
 ### Constraints
 
 1 ≤ \( n \) ≤ 26
-
-
-
-## Sample Input
-
-5
-
-## Sample Output
---------e--------
-------e-d-e------
-----e-d-c-d-e----
---e-d-c-b-c-d-e--
-e-d-c-b-a-b-c-d-e
---e-d-c-b-c-d-e--
-----e-d-c-d-e----
-------e-d-e------
---------e--------
